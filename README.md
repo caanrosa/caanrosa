@@ -6,7 +6,7 @@ Currently in my third year at college, working towards graduating as a Software 
 ## 💻 Tech Stack
 - Python (my favorite! :D)
 - Java
-- C#
+- C# (not much, actually)
 
 ## 🎮 Projects & Interests
 - I love making videogames, especially rhythm games and bullet hells.
