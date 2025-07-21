@@ -14,7 +14,7 @@ Currently in my third year at college, working towards graduating as a Software 
 
 ## 🎶 What else?
 - Big fan of music—currently interested in learning how to play the piano.
-
+- Influented by Touhou games, Undertale, Geometry Dash.
 ---
 
 Thanks for stopping by my profile!  
