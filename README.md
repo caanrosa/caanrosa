@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm caanrosa! 👋
 
-<!--
-**caanrosa/caanrosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Student**  
+Currently in my third year at college, working towards graduating as a Software Engineer.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+- Python (my favorite! :D)
+- Java
+- C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎮 Projects & Interests
+- I love making videogames, especially rhythm games and bullet hells.
+- Always excited about learning new things in programming and game development.
+
+## 🎶 What else?
+- Big fan of music—currently interested in learning how to play the piano.
+
+---
+
+Thanks for stopping by my profile!  
+Feel free to connect, collaborate, or just say hi. 😊
